@@ -1,5 +1,5 @@
 # Class-projects
-This repository contins a few projects in data analysis using MATLAB. 
+This repository contins projects in data analysis using MATLAB. 
 
 ## Projects
 In MATLAB, the projects are geared towards interpreting and drawing conclusions about large data sets, specifically with a COVID 19 data set.
